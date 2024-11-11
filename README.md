@@ -1,5 +1,28 @@
 # Raylib CMake Calculator Project
 
+A simple calculator created using C++ and the [Raylib](https://www.raylib.com/) graphics library. This project, developed as part of the CS225 course in Fall 2022, offers a basic yet functional calculator interface with an intuitive design and straightforward functionality.
+
+## Features
+
+- **Basic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Clear Function**: Reset calculations easily.
+- **User-Friendly Interface**: Simple and easy-to-navigate layout created with Raylib.
+- **Real-Time Display**: Immediate feedback on the entered numbers and results.
+
+## Technologies Used
+
+- **C++**: Core programming language used for functionality.
+- **Raylib**: Library used to create a graphical interface, providing an interactive and visually accessible design.
+
+## Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Minki-Cho/Calculator.git
+   cd Calculator
+
+
+
 This provides a base project template which builds with [CMake](https://cmake.org).
 
 ## Usage
